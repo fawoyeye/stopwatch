@@ -1,1 +1,1 @@
-Hosted at fawoyeye.github.io/stopwatch
+https://fawoyeye.github.io/stopwatch
